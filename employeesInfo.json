@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "61d4629987c750b7aab044d3"
+  },
+  "empId": 1,
+  "firstName": "carla",
+  "lastName": "marry",
+  "position": "manager",
+  "salary": 50000
+},{
+  "_id": {
+    "$oid": "61d463c387c750b7aab044d4"
+  },
+  "empId": 2,
+  "firstName": "ana",
+  "lastName": "lorry",
+  "position": "test lead",
+  "salary": 45000
+},{
+  "_id": {
+    "$oid": "61d463ee87c750b7aab044d5"
+  },
+  "empId": 3,
+  "firstName": "sam",
+  "lastName": "albert",
+  "position": "tester",
+  "salary": 42000
+},{
+  "_id": {
+    "$oid": "61d8f47578c8cf1642cee76b"
+  },
+  "empId": 4,
+  "firstName": "samuel",
+  "lastName": "anthony",
+  "position": "developer",
+  "salary": 90000
+},{
+  "_id": {
+    "$oid": "61d8f4c778c8cf1642cee76c"
+  },
+  "empId": 5,
+  "firstName": "anamaria",
+  "lastName": "tylor",
+  "position": "scrum master",
+  "salary": 70000
+},{
+  "_id": {
+    "$oid": "61d8f4f878c8cf1642cee76d"
+  },
+  "empId": 6,
+  "firstName": "carlos",
+  "lastName": "anabel",
+  "position": "manager",
+  "salary": 65000
+},{
+  "_id": {
+    "$oid": "61d8f54378c8cf1642cee76e"
+  },
+  "empId": 7,
+  "firstName": "christina",
+  "lastName": "lopez",
+  "position": "tester",
+  "salary": 60000
+},{
+  "_id": {
+    "$oid": "61d8f56c78c8cf1642cee76f"
+  },
+  "empId": 8,
+  "firstName": "chris",
+  "lastName": "anthony",
+  "position": "developer",
+  "salary": 80000
+},{
+  "_id": {
+    "$oid": "61d8f5be78c8cf1642cee770"
+  },
+  "empId": 9,
+  "firstName": "sebastian",
+  "lastName": "raul",
+  "position": "manager",
+  "salary": 65000
+},{
+  "_id": {
+    "$oid": "61d8f5e078c8cf1642cee771"
+  },
+  "empId": 10,
+  "firstName": "james",
+  "lastName": "steve",
+  "position": "test lead",
+  "salary": 70000
+}]
